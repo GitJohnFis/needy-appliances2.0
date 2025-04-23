@@ -16,7 +16,9 @@ Now your appliances can be as _needy_ as your SO
 
 # Credits
 git checkout By the Questionable Team
-Jacobtread, Fallstop, LaSpruca & InvalidSE
+Jacobtread, Fallstop, LaSpruca & InvalidSE. [^1]
+
+[^1]: First link in References tab.
 
 <!--
 💫 About Me:
