@@ -6,12 +6,13 @@ Now your appliances can be as needy as your SO
 [Stack Overflow](https://stackoverflow.com/users/https://stackoverflow.com/users/30075607/jfisiiahi-69?tab=profile)
 
 # 💻Tech Stack
-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 - ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white)
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
 # Contact
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jfisiiahi69@gmail.com)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jfisiiahi69@gmail.com)
+- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30075607/jfisiiahi-69?tab=profile)
 
 # Credits
 git checkout By the Questionable Team
@@ -73,7 +74,7 @@ Jacobtread, Fallstop, LaSpruca & InvalidSE
 
 
 
-
+<!--
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
