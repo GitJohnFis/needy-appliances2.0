@@ -1,8 +1,8 @@
 # needy-appliances
-Now your appliances can be as needy as your SO
+Now your appliances can be as _needy_ as your SO
 
 # References
-[About source project](https://questionable.org.nz/info/about/)
+[About source project](https://questionable.org.nz/info/about/)<br>
 [Stack Overflow](https://stackoverflow.com/users/https://stackoverflow.com/users/30075607/jfisiiahi-69?tab=profile)
 
 # 💻Tech Stack
